@@ -1,0 +1,21 @@
+City_name,Country,Population,EU Status,Number of Crimes,Time Zone
+London,United Kingdom,8982000,0,56432,GMT
+Paris,France,2140526,1,42187,CET
+Berlin,Germany,3748148,1,18743,CET
+Madrid,Spain,3266126,1,29401,CET
+Rome,Italy,2870500,1,51236,CET
+Athens,Greece,664046,1,38512,EET
+Vienna,Austria,1897491,1,15872,CET
+Amsterdam,Netherlands,872680,1,21346,CET
+Lisbon,Portugal,547631,1,17689,WET
+Dublin,Ireland,544107,1,1456323232,GMT
+Stockholm,Sweden,975551,1,7841,CET
+Copenhagen,Denmark,0,1,10237,CET
+Helsinki,Finland,648042,1,7846,EET
+Oslo,Norway,693491,0,8963,CET
+Warsaw,Poland,1790658,1,12457,CET
+Prague,Czech Republic,1301132,1,15678,XCET
+Budapest,Hungary,1752286,1,20543,CET
+Brussels,Belgium,1209000,1,29651,CET
+Ljubljana,Slovenia,286745,1,9721,CET
+Zagreb,Croatia,173286,1,18457,CET
